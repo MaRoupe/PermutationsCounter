@@ -1,0 +1,13 @@
+C:\Users\marti\source\repos\PermutationsCounter\PermutationsCounter\bin\Debug\netcoreapp3.1\PermutationsCounter.exe
+C:\Users\marti\source\repos\PermutationsCounter\PermutationsCounter\bin\Debug\netcoreapp3.1\PermutationsCounter.deps.json
+C:\Users\marti\source\repos\PermutationsCounter\PermutationsCounter\bin\Debug\netcoreapp3.1\PermutationsCounter.runtimeconfig.json
+C:\Users\marti\source\repos\PermutationsCounter\PermutationsCounter\bin\Debug\netcoreapp3.1\PermutationsCounter.runtimeconfig.dev.json
+C:\Users\marti\source\repos\PermutationsCounter\PermutationsCounter\bin\Debug\netcoreapp3.1\PermutationsCounter.dll
+C:\Users\marti\source\repos\PermutationsCounter\PermutationsCounter\bin\Debug\netcoreapp3.1\PermutationsCounter.pdb
+C:\Users\marti\source\repos\PermutationsCounter\PermutationsCounter\obj\Debug\netcoreapp3.1\PermutationsCounter.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\PermutationsCounter\PermutationsCounter\obj\Debug\netcoreapp3.1\PermutationsCounter.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\PermutationsCounter\PermutationsCounter\obj\Debug\netcoreapp3.1\PermutationsCounter.AssemblyInfo.cs
+C:\Users\marti\source\repos\PermutationsCounter\PermutationsCounter\obj\Debug\netcoreapp3.1\PermutationsCounter.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\PermutationsCounter\PermutationsCounter\obj\Debug\netcoreapp3.1\PermutationsCounter.dll
+C:\Users\marti\source\repos\PermutationsCounter\PermutationsCounter\obj\Debug\netcoreapp3.1\PermutationsCounter.pdb
+C:\Users\marti\source\repos\PermutationsCounter\PermutationsCounter\obj\Debug\netcoreapp3.1\PermutationsCounter.genruntimeconfig.cache
